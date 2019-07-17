@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/u6du/webpush/issues"
   },
-  "homepage": "https://github.com/u6du/webpush#readme"
+  "homepage": "https://github.com/u6du/webpush#readme",
+  "dependencies": {
+    "web-push": "^3.3.5"
+  }
 }
